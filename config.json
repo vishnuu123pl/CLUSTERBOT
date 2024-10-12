@@ -1,9 +1,9 @@
 {   
     "bot1": {
-        "source": "https://github.com/vishnuu123pl/SERIAL-BOT-1-DQ",
-        "branch": "web",
+        "source": "https://github.com/vishnuu123pl/ANU2",
+        "branch": "Tech_vj",
         "env": {
-            "SUPPORT_CHAT_ID": "-1002122722037"
+            "BOT_TOKEN": "7220325685:AAGV4IOBr75J-Oime6v7aDTE3nSKu9MMDOs"
         },
         "run": "bot.py"
     },
