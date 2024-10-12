@@ -3,8 +3,7 @@
         "source": "https://github.com/vishnuu123pl/SERIAL-BOT-1-DQ",
         "branch": "web",
         "env": {
-            "SUPPORT_CHAT_ID": "-1002122722037",
-            "AUTH_CHANNEL": "-1002123279503"
+            "SUPPORT_CHAT_ID": "-1002122722037"
         },
         "run": "bot.py"
     },
@@ -18,8 +17,7 @@
             "DELETE_TIME": "300",
             "FILE_AUTO_DEL_TIMER": "10000",
             "PYTHON_VERSION": "3.10.8",
-            "PORT": "5001",
-            "AUTH_CHANNEL": "-1002123279503"
+            "PORT": "5001"
         },
         "run": "bot.py"
     }
