@@ -3,8 +3,21 @@
         "source": "https://github.com/vishnuu123pl/SERIAL-BOT-1-DQ",
         "branch": "web",
         "env": {
-            "TOKEN": "6375200576:AAGVJdULNUtf1S2qRaZrXvXlVVytXuzJ-OQ",
             "SUPPORT_CHAT_ID": "-1002122722037"
+            "AUTH_CHANNEL": "-1002123279503"
+        },
+        "run": "bot.py"
+    },
+    "bot2": {
+        "source": "https://github.com/vishnuu123pl/biisal-filter-bot",
+        "branch": "main",
+        "env": {
+            "AUTH_CHANNEL" : "-1002123279503"
+            "BOT_TOKEN" : "7117702689:AAHXm8Nunfe0C1UNeAmuKXlDbBQjR_cNPpY"
+            "CHANNELS": "-1002242676006"
+            "DELETE_TIME": "300"
+            "FILE_AUTO_DEL_TIMER": "10000"
+            "PYTHON_VERSION": "3.10.8"
         },
         "run": "bot.py"
     }
