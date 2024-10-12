@@ -20,5 +20,13 @@
             "PORT": "5001"
         },
         "run": "bot.py"
+    },   
+    "bot1": {
+        "source": "https://github.com/vishnuu123pl/SERIAL-BOT-2-DQ",
+        "branch": "web",
+        "env": {
+            "SUPPORT_CHAT_ID": "-1001968355911"
+        },
+        "run": "bot.py"
     }
 }
