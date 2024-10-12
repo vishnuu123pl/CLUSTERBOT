@@ -3,7 +3,7 @@
         "source": "https://github.com/vishnuu123pl/ANU2",
         "branch": "Tech_VJ",
         "env": {
-            "BOT_TOKEN": "7220325685:AAGV4IOBr75J-Oime6v7aDTE3nSKu9MMDOs"
+            "BOT_TOKEN": "7220325685:AAEGJF3L0BdicOVFoOW9tCDJV2lrfiupmp4"
         },
         "run": "bot.py"
     },
