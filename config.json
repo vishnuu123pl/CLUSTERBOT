@@ -3,7 +3,8 @@
         "source": "https://github.com/vishnuu123pl/SERIAL-BOT-1-DQ",
         "branch": "web",
         "env": {
-            "TOKEN": "6375200576:AAGVJdULNUtf1S2qRaZrXvXlVVytXuzJ-OQ"
+            "TOKEN": "6375200576:AAGVJdULNUtf1S2qRaZrXvXlVVytXuzJ-OQ",
+            "SUPPORT_CHAT_ID": "-1002122722037"
         },
         "run": "bot.py"
     }
