@@ -1,66 +1,10 @@
 {   
     "bot1": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/vishnuu123pl/SERIAL-BOT-1-DQ",
+        "branch": "web",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "6375200576:AAGVJdULNUtf1S2qRaZrXvXlVVytXuzJ-OQ"
         },
-        "run": "run.sh"
-    },
-    "bot2": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
+        "run": "bot.py"
     }
 }
