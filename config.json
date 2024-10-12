@@ -18,6 +18,7 @@
             "DELETE_TIME": "300"
             "FILE_AUTO_DEL_TIMER": "10000"
             "PYTHON_VERSION": "3.10.8"
+            "PORT": "5001"
         },
         "run": "bot.py"
     }
