@@ -21,5 +21,13 @@
             "PORT": "5001"
         },
         "run": "bot.py"
+    }, 
+    "bot1": {
+        "source": "https://github.com/vishnuu123pl/Savenow",
+        "branch": "v3",
+        "env": {
+            "BOT_TOKEN": "7322775221:AAE-xWRpWzMt10jQcA_Eg3vXNAql_5i4f4I"
+        },
+        "run": "bot.py"
     }
 }
