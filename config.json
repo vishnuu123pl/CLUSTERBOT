@@ -17,15 +17,8 @@
             "DELETE_TIME": "300",
             "FILE_AUTO_DEL_TIMER": "10000",
             "PYTHON_VERSION": "3.10.8",
+            "DATABASE_URI": "https://github.com/vishnuu123pl/biisal-filter-bot",
             "PORT": "5001"
-        },
-        "run": "bot.py"
-    },   
-    "bot1": {
-        "source": "https://github.com/vishnuu123pl/SERIAL-BOT-2-DQ",
-        "branch": "web",
-        "env": {
-            "SUPPORT_CHAT_ID": "-1001968355911"
         },
         "run": "bot.py"
     }
