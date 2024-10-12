@@ -17,7 +17,7 @@
             "DELETE_TIME": "300",
             "FILE_AUTO_DEL_TIMER": "10000",
             "PYTHON_VERSION": "3.10.8",
-            "DATABASE_URI": "https://github.com/vishnuu123pl/biisal-filter-bot",
+            "DATABASE_URI": "mongodb+srv://V:V@cluster0.qywqg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "PORT": "5001"
         },
         "run": "bot.py"
