@@ -1,28 +1,5 @@
 {   
     "bot1": {
-        "source": "https://github.com/vishnuu123pl/ANU2",
-        "branch": "Tech_VJ",
-        "env": {
-            "BOT_TOKEN": "7220325685:AAEGJF3L0BdicOVFoOW9tCDJV2lrfiupmp4"
-        },
-        "run": "bot.py"
-    },
-    "bot2": {
-        "source": "https://github.com/vishnuu123pl/biisal-filter-bot",
-        "branch": "main",
-        "env": {
-            "AUTH_CHANNEL" : "-1002123279503",
-            "BOT_TOKEN" : "7117702689:AAHXm8Nunfe0C1UNeAmuKXlDbBQjR_cNPpY",
-            "CHANNELS": "-1002242676006",
-            "DELETE_TIME": "300",
-            "FILE_AUTO_DEL_TIMER": "10000",
-            "PYTHON_VERSION": "3.10.8",
-            "DATABASE_URI": "mongodb+srv://V:V@cluster0.qywqg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-            "PORT": "5001"
-        },
-        "run": "bot.py"
-    }, 
-    "bot1": {
         "source": "https://github.com/vishnuu123pl/Savenow",
         "branch": "v3",
         "env": {
